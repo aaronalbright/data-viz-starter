@@ -1,5 +1,9 @@
 # Data visualzation starter
 
+**THIS REPO HAS BEEN ARCHIVED.**
+
+**ALL DEVELOPMENT OF FRONT-END PROJECTS HAS MOVED TO [https://github.com/aaronalbright/mccustom-starter](https://github.com/aaronalbright/mccustom-starter).**
+
 ## About
 
 This is template is designed as a starting point for embed projects for the Miami Herald.
